@@ -1,6 +1,11 @@
 #  CodeLeap Network - Technical Challenge
+By: Caio Silva
 
 A fully functional CRUD application developed for the CodeLeap technical assessment. This social network allows users to create, read, update, and delete posts. 
+
+Vercel Link: https://codeleap-network-beta.vercel.app/
+
+(Firebase credentials on 'firebase.js' are only for dev mode testing. Of course, in production they shouldn't be there.)
 
 #  Key Features
 
