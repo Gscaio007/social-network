@@ -35,11 +35,11 @@ const Signup = () => {
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.3 }}
       >
-        <Title>Welcome to CodeLeap network!</Title>
+        <Title>Welcome to Cs Social Network!</Title>
         
         <Label>Please enter your username</Label>
         <Input 
-          placeholder="John doe" 
+          placeholder="Caio Silva" 
           value={username}
           onChange={(e) => setUsername(e.target.value)}
           onKeyDown={(e) => e.key === 'Enter' && handleManualLogin()}
