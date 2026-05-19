@@ -31,7 +31,7 @@ Vercel Link: https://cssocial-network-beta.vercel.app/
 
 1. **Clone the repository:**
    
-   git clone [https://github.com/Gscaio007/codeleap-network.git](https://github.com/Gscaio007/social-network.git)
+   git clone [https://github.com/Gscaio007/social-network.git](https://github.com/Gscaio007/social-network.git)
 
 
 2. **Install dependencies:**
