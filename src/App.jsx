@@ -17,7 +17,7 @@ function App() {
   return (
     <MainContainer>
       <Header>
-        <h1>CodeLeap Network</h1>
+        <h1>CS Social Network</h1>
         <LogoutButton onClick={() => dispatch(logout())} title="Logout">
           <span>Logout</span>
           <FiLogOut size={20} />
