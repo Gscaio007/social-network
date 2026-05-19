@@ -1,9 +1,9 @@
-#  CodeLeap Network - Technical Challenge
+#  CS Social Network
 By: Caio Silva
 
-A fully functional CRUD application developed for the CodeLeap technical assessment. This social network allows users to create, read, update, and delete posts. 
+A fully functional CRUD application. This social network allows users to create, read, update, and delete posts. 
 
-Vercel Link: https://codeleap-network-beta.vercel.app/
+Vercel Link: https://cssocial-network-beta.vercel.app/
 
 (Firebase credentials on 'firebase.js' are only for dev mode testing. Of course, in production they shouldn't be there.)
 
@@ -31,7 +31,7 @@ Vercel Link: https://codeleap-network-beta.vercel.app/
 
 1. **Clone the repository:**
    
-   git clone [https://github.com/Gscaio007/codeleap-network.git](https://github.com/Gscaio007/codeleap-network.git)
+   git clone [https://github.com/Gscaio007/codeleap-network.git](https://github.com/Gscaio007/social-network.git)
 
 
 2. **Install dependencies:**
